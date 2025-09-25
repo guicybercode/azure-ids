@@ -67,7 +67,7 @@ sudo yum install cpprest-devel
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-org/azure-ids.git
+git clone https://github.com/your-org/azure-ids
 cd azure-ids
 ```
 
